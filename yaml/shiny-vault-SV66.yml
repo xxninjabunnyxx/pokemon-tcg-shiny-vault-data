@@ -1,0 +1,98 @@
+---
+id: sma-SV66
+name: Lycanroc-GX
+supertype: Pokémon
+subtypes:
+- Stage 1
+- GX
+hp: '200'
+types:
+- Fighting
+evolvesFrom: Rockruff
+rules:
+- 'Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize
+  cards.'
+abilities:
+- name: Bloodthirsty Eyes
+  text: When you play this Pokémon from your hand to evolve 1 of your Pokémon during
+    your turn, you may switch 1 of your opponent's Benched Pokémon with their Active
+    Pokémon.
+  type: Ability
+attacks:
+- name: Claw Slash
+  cost:
+  - Fighting
+  - Colorless
+  - Colorless
+  convertedEnergyCost: 3
+  damage: '110'
+  text: ''
+- name: Dangerous Rogue-GX
+  cost:
+  - Fighting
+  - Colorless
+  convertedEnergyCost: 2
+  damage: 50×
+  text: This attack does 50 damage for each of your opponent's Benched Pokémon. (You
+    can't use more than 1 GX attack in a game.)
+weaknesses:
+- type: Grass
+  value: "×2"
+retreatCost:
+- Colorless
+- Colorless
+convertedRetreatCost: 2
+set:
+  id: sma
+  name: Shiny Vault
+  series: Sun & Moon
+  printedTotal: 94
+  total: 94
+  legalities:
+    unlimited: Legal
+    expanded: Legal
+  releaseDate: 2019/08/23
+  updatedAt: 2021/09/01 05:37:00
+  images:
+    symbol: https://images.pokemontcg.io/sma/symbol.png
+    logo: https://images.pokemontcg.io/sma/logo.png
+number: SV66
+artist: 5ban Graphics
+rarity: Rare Shiny GX
+nationalPokedexNumbers:
+- 745
+legalities:
+  unlimited: Legal
+  expanded: Legal
+images:
+  small: https://images.pokemontcg.io/sma/SV66.png
+  large: https://images.pokemontcg.io/sma/SV66_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/sma-SV66
+  updatedAt: 2023/09/15
+  prices:
+    holofoil:
+      low: 4.51
+      mid: 8.0
+      high: 15.9
+      market: 7.41
+      directLow: 8.09
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/sma-SV66
+  updatedAt: 2023/09/15
+  prices:
+    averageSellPrice: 8.29
+    lowPrice: 6.34
+    trendPrice: 8.5
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.0
+    reverseHoloLow: 0.0
+    reverseHoloTrend: 10.93
+    lowPriceExPlus: 6.34
+    avg1: 7.2
+    avg7: 9.82
+    avg30: 8.16
+    reverseHoloAvg1: 9.25
+    reverseHoloAvg7: 10.04
+    reverseHoloAvg30: 14.59

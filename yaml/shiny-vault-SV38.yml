@@ -1,0 +1,81 @@
+---
+id: sma-SV38
+name: Gible
+supertype: Pokémon
+subtypes:
+- Basic
+hp: '50'
+types:
+- Dragon
+evolvesTo:
+- Gabite
+attacks:
+- name: Ascension
+  cost:
+  - Fighting
+  convertedEnergyCost: 1
+  damage: ''
+  text: Search your deck for a card that evolves from this Pokémon and put it onto
+    this Pokémon to evolve it. Then, shuffle your deck.
+weaknesses:
+- type: Fairy
+  value: "×2"
+retreatCost:
+- Colorless
+convertedRetreatCost: 1
+set:
+  id: sma
+  name: Shiny Vault
+  series: Sun & Moon
+  printedTotal: 94
+  total: 94
+  legalities:
+    unlimited: Legal
+    expanded: Legal
+  releaseDate: 2019/08/23
+  updatedAt: 2021/09/01 05:37:00
+  images:
+    symbol: https://images.pokemontcg.io/sma/symbol.png
+    logo: https://images.pokemontcg.io/sma/logo.png
+number: SV38
+artist: Saya Tsuruta
+rarity: Rare Shiny
+flavorText: It skulks in caves, and when prey or an enemy passes by, it leaps out
+  and chomps them. The force of its attack sometimes chips its teeth.
+nationalPokedexNumbers:
+- 443
+legalities:
+  unlimited: Legal
+  expanded: Legal
+images:
+  small: https://images.pokemontcg.io/sma/SV38.png
+  large: https://images.pokemontcg.io/sma/SV38_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/sma-SV38
+  updatedAt: 2023/09/15
+  prices:
+    holofoil:
+      low: 0.95
+      mid: 2.14
+      high: 15.0
+      market: 1.75
+      directLow: 2.69
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/sma-SV38
+  updatedAt: 2023/09/15
+  prices:
+    averageSellPrice: 1.69
+    lowPrice: 1.0
+    trendPrice: 1.37
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.0
+    reverseHoloLow: 5.99
+    reverseHoloTrend: 3.04
+    lowPriceExPlus: 1.25
+    avg1: 1.57
+    avg7: 1.61
+    avg30: 1.96
+    reverseHoloAvg1: 2.5
+    reverseHoloAvg7: 3.33
+    reverseHoloAvg30: 3.59
